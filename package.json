@@ -1,6 +1,6 @@
 {
   "name": "ns-build-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "ns build cli",
   "bin": {
     "ns": "./bin/run",
@@ -76,7 +76,7 @@
     "cross-spawn": "^7.0.3",
     "css-loader": "^3.5.3",
     "download-git-repo": "^3.0.2",
-    "dx-mock": "^0.1.0",
+    "ns-mock": "^1.0.0",
     "eslint": "^7.1.0",
     "eslint-config-oclif": "^4.0.0",
     "eslint-config-oclif-typescript": "^1.0.2",

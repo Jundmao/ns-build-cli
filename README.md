@@ -10,7 +10,7 @@ $ npm install -g ns-build-cli
 $ ns COMMAND
 running command...
 $ ns (--version)
-ns-build-cli/1.0.1 darwin-x64 node-v16.12.0
+ns-build-cli/1.0.2 darwin-x64 node-v16.12.0
 $ ns --help [COMMAND]
 USAGE
   $ ns COMMAND
@@ -60,6 +60,21 @@ DESCRIPTION
 
 EXAMPLES
   $ ns eslint
+```
+
+## `ns publish`
+
+发布NPM包到顶象私有库
+
+```
+USAGE
+  $ ns publish
+
+DESCRIPTION
+  发布NPM包到顶象私有库
+
+EXAMPLES
+  $ ns publish
 ```
 
 ## `ns start`
